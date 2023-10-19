@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hodgparjor vel Aleksander Brzostowski, second year student of Computer Science at International Faculty of Engineering, Lodz University of Technology.
+- 👋 Hi, I’m @Hodgparjor vel Aleksander Brzostowski, third year student of Computer Science at International Faculty of Engineering, Lodz University of Technology.
 - 💻 Embedded Systems, C, C++, C#, Java, Python
 - 📫 olekbrzost@gmail.com
 
